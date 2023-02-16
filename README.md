@@ -1,5 +1,5 @@
 # Lampadone 💡 
- Lampadone is a PCB project of mine to control an RGB lamp using three slider to manually regulate each color 
+ Lampadone is a PCB project of mine to control an RGB lamp (commone anode types) using three slider to manually regulate each color, 
  Lampadone also have a usb type A and type-C standard 5V output to charge any usb device with it
  please note that the slider footprint are custom and selfmade for an old slider that i have used, there are plenty of similar sliders online but i can't guarantee that they will fit perfectly with my footprint
  
