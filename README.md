@@ -1,5 +1,6 @@
 # Lampadone 💡 
  Lampadone is a PCB project of mine to control an RGB lamp using three slider to manually regulate each color 
+ please note that the slider footprint are custom and selfmade for an old slider that i have used, there are plenty of similar sliders online but i can't guarantee that they will fit perfectly with my footprint
  
  # ⚠️ WARNING ⚠️ 
  note that this circuit is not suited for every kind of lamp, so be aware that it might burn your lamp or not work properly
