@@ -1,4 +1,4 @@
-# Lampadone
+# Lampadone 💡 
  Lampadone is a PCB project of mine to control an RGB lamp using three slider to manually regulate each color 
  
  # ⚠️ WARNING ⚠️ 
